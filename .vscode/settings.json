@@ -1,8 +1,5 @@
 {
     "files.associations": {
-        "stdio.h": "c",
-        "bit": "cpp",
-        "cmath": "cpp",
-        "*.tcc": "cpp"
+        "math.h": "c"
     }
 }
