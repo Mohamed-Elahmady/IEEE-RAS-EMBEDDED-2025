@@ -1,6 +1,11 @@
 {
     "files.associations": {
         "math.h": "c",
-        "string.h": "c"
+        "string.h": "c",
+        "stdlib.h": "c",
+        "stdio.h": "c",
+        "sstream": "c",
+        "ctype.h": "c",
+        "_ctype.h": "c"
     }
 }
