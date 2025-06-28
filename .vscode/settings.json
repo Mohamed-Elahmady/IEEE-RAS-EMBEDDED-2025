@@ -7,6 +7,7 @@
         "sstream": "c",
         "ctype.h": "c",
         "_ctype.h": "c",
-        "Problem_4.C": "cpp"
+        "Problem_4.C": "cpp",
+        "stack.h": "c"
     }
 }
